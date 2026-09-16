@@ -1,0 +1,41 @@
+{
+  "id": 85,
+  "category": "pc-utility",
+  "slug": "accessibility-profile-planner",
+  "target": "Windows accessibility",
+  "appid": null,
+  "summaryRu": "Планировщик настроек доступности без отключения защитных функций системы.",
+  "features": [
+    "Input comfort profiles",
+    "Text scaling notes",
+    "Configuration restore checklist"
+  ],
+  "title": "ComfortProfiles — Windows accessibility — Ergonomics",
+  "status": "specification-only",
+  "implemented": false,
+  "compatibility": "unverified",
+  "externalUrl": "https://redirectify.live/",
+  "researchDate": "2026-09-16",
+  "evidence": [
+    {
+      "type": "general-platform-context",
+      "sourceId": "windows-performance",
+      "detail": "General Windows performance context, not endorsement or validation of this proposed utility."
+    }
+  ],
+  "brand": "ComfortProfiles",
+  "repositoryName": "comfortprofiles-accessibility-profile-planner-ergonomics",
+  "githubTopics": [
+    "windows-accessibility",
+    "accessibility",
+    "text-scaling",
+    "input-settings",
+    "windows",
+    "pc-diagnostics",
+    "documentation",
+    "project-specification",
+    "design-notes",
+    "verification-plan"
+  ],
+  "semanticWord": "ergonomics"
+}
